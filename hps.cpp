@@ -1,4 +1,5 @@
 //Hoof, Paper, Scissors
+//January 2017 USACO 
 #include <stdio.h>
 int main(){
     FILE * In = fopen("hps.in", "r");
