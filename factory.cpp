@@ -15,11 +15,23 @@ int main(){
         int lines = i_lines;
         for (int i_stations = 1; i_stations <= N; i_stations++){
             int stations = i_stations;
+            int count;
+            count++;
             if (B[lines] == stations){
                 //for each of the values in array b as a possible station, find station w/ total of N-1
-                int count = 0;
-                count ++;g
-            
+                break;
             }
-        
-    }
+        }   
+   }
+   for (int i_afterlines = 1+count; i_afterlines <= N-1; i_afterlines++){
+       int afterlines = i_afterlines;
+       if (B[afterlines] == stations){
+          int second_count;
+          second_count++;
+       }    
+   }
+    
+   if (second_count == N-1){
+       
+}
+    
