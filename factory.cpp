@@ -1,7 +1,6 @@
 //Milk Factory
-//USACO 2019 US Open Contest
-
 //By: Max Yang
+//Time: 45 minutes
 
 #include <stdio.h>
 #include <cstdlib>
