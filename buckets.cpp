@@ -1,3 +1,7 @@
+//The Bucket Brigade
+//By: Max Yang
+//Time: 1 hour
+//In my program, the only program I couldn't find was that I couldn't transfer the characters into the array since an array kept coming
 #include <cstdlib>
 #include <string>
 int main(){
