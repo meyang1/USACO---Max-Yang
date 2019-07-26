@@ -5,7 +5,7 @@
 The problem took some time to understand, but I think I got the main parts 
 of it. I mostly spent time trying to implement maps into the programming, 
 which I still didn't really understand completely after using them. Also,
-when I tried running the program into the USACO website, a lot of compilation
+when I tried submitting the program into the USACO website, a lot of compilation
 errors occured, even though there were no errors while running in the command 
 line. 
 */
