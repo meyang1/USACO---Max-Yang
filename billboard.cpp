@@ -2,9 +2,9 @@
 //By: Max Yang
 //Time: 1 hour and 45 minutes
 /*
-The logic for the problem took a long time for me to
-map out on paper and was sometimes confusing due to all
-the variables.
+The logic for the problem took a long time for me to map out on paper 
+and was also very easy to mix up the x and y values for each coordinate
+on the billboards.
 */
 #include <stdio.h>
 #include <cstdlib>
