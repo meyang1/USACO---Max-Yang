@@ -4,7 +4,7 @@
 /*
 The logic for the problem took a long time for me to map out on paper 
 and was also very easy to mix up the x and y values for each coordinate
-on the billboards.
+of the rectangles.
 */
 #include <stdio.h>
 #include <cstdlib>
